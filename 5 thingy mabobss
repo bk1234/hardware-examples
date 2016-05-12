@@ -1,0 +1,31 @@
+<DOCTYPE! html>
+	<html>
+		<head>
+		<center><h1>Hardware</h1></center>
+		</head>
+		<body>
+		<center><p>here are some examples</p></center>
+		
+	<table border="1" style="width:100%">  
+ <tr>
+    <td><center><img src="https://padlet-res.cloudinary.com/image/fetch/a_exif,c_limit,dpr_1.0,f_auto,fl_lossy,w_720/https%3A%2F%2Fgithub.com%2Fbk1234%2Fhardware-examples%2Fblob%2Fmaster%2FRam%2520Card.png%3Fraw%3Dtrue" alt="https://padlet-res.cloudinary.com/image/fetch/a_exif,c_limit,dpr_1.0,f_auto,fl_lossy,w_720/https%3A%2F%2Fgithub.com%2Fbk1234%2Fhardware-examples%2Fblob%2Fmaster%2FRam%2520Card.png%3Fraw%3Dtrue" width="304" height="288"></center></td>
+    <td>This is the ram card!</td> 
+    <td>The ram card is meant to store memory. It can store many types of memory. ex. desktop, laptop.</td>
+  </tr>
+  <tr>
+    <td><center><img src="https://padlet-res.cloudinary.com/image/fetch/a_exif,c_limit,dpr_1.0,f_auto,fl_lossy,w_720/https%3A%2F%2Fgithub.com%2Fbk1234%2Fhardware-examples%2Fblob%2Fmaster%2FHardware.png%3Fraw%3Dtrue" alt="https://padlet-res.cloudinary.com/image/fetch/a_exif,c_limit,dpr_1.0,f_auto,fl_lossy,w_720/https%3A%2F%2Fgithub.com%2Fbk1234%2Fhardware-examples%2Fblob%2Fmaster%2FHardware.png%3Fraw%3Dtrue" width="304" height="288"><center></td>
+    <td>This is the graphics card!</td> 
+    <td>This will improve and increase the graphics by a lot.</td>
+  </tr>
+	<tr>
+		<td><center><img src="https://padlet-res.cloudinary.com/image/fetch/a_exif,c_limit,dpr_1.0,f_auto,fl_lossy,w_720/https%3A%2F%2Fgithub.com%2Fbk1234%2Fhardware-examples%2Fblob%2Fmaster%2FScreen%2520Shot%25202016-05-09%2520at%25208.09.45%2520AM.png%3Fraw%3Dtrue" alt="https://padlet-res.cloudinary.com/image/fetch/a_exif,c_limit,dpr_1.0,f_auto,fl_lossy,w_720/https%3A%2F%2Fgithub.com%2Fbk1234%2Fhardware-examples%2Fblob%2Fmaster%2FScreen%2520Shot%25202016-05-09%2520at%25208.09.45%2520AM.png%3Fraw%3Dtrue" width="304" height="288"><center></td>
+		<td> This is the hard drive!</td>
+		<td>The hard drive stores ALL data if the hard drive breaks then the computer does to.</td>
+	</tr> 
+	<tr>
+		<td><center><img src="https://padlet-res.cloudinary.com/image/fetch/a_exif,c_limit,dpr_1.0,fl_lossy,w_720/https%3A%2F%2Fpadlet-uploads.s3.amazonaws.com%2Fprod%2F113546822%2F871c38237a866f27cf949454fd580302cafbdb3d%2F9821ac2e9fb950b05dc74ba05aede11f.png" alt="https://padlet-res.cloudinary.com/image/fetch/a_exif,c_limit,dpr_1.0,fl_lossy,w_720/https%3A%2F%2Fpadlet-uploads.s3.amazonaws.com%2Fprod%2F113546822%2F871c38237a866f27cf949454fd580302cafbdb3d%2F9821ac2e9fb950b05dc74ba05aede11f.png" width="304" height="288"></img></center>
+		<td>This is the motherboard!</td>
+		<td> It is the central station for every computer.</td>
+</table>
+		</body>
+	</html>
